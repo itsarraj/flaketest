@@ -5,6 +5,12 @@ Today's fixes are CI-platform-specific SaaS (BuildPulse) or nothing —
 this is a plain wrapper binary, works with any test runner your CI
 already calls.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
